@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid30826",
+  "B": "/home/dev/feedback/uid30826",
+  "sha": "6edbb8256af18f708c2c01bedb43015143c7d583",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "firecracker-microvm",
+    "repo": "firecracker",
+    "sha": "6edbb8256af18f708c2c01bedb43015143c7d583"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "firecracker",
+    "cloneUrl": "https://github.com/Rrr119/firecracker.git"
+  },
+  "at": "2026-11-20T18:30:36.160Z"
+}
